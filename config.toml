@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"  # Include trailing slash
+baseurl = "https://davideit03.github.io/"  # Include trailing slash
 title = "davieitgallery"
 publishDir = "docs"
 # this example loads the theme as hugo module
